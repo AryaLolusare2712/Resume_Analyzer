@@ -27,6 +27,8 @@ resume-analyzer/
 
 ├── prompts.py # Gemini prompt template
 
+├── gradio_app.py # Interactive UI
+
 ├── utils.py # PDF text extractor
 
 ├── .env # Google Gemini API key
