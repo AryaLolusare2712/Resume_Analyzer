@@ -1,5 +1,15 @@
 # 📄 Resume Analyzer with Gemini 1.5 Flash
 
+## Architecture
+
+```mermaid
+flowchart LR
+  R[Resume input] --> X[Text extraction]
+  X --> G[Gemini analysis]
+  G --> A[Skill and content assessment]
+  A --> O[Feedback and recommendations]
+```
+
 A powerful Resume Analyzer tool that uses **Google's Gemini 1.5 Flash** LLM to:
 - Analyze resumes and job descriptions
 - Score how well a resume matches a job
