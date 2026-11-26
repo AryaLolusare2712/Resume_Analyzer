@@ -1,5 +1,9 @@
 # 📄 Resume Analyzer with Gemini 1.5 Flash
 
+## Project contribution
+
+Gives job seekers AI-assisted feedback on resume content, skills, and presentation to support more focused improvements.
+
 ## Architecture
 
 ```mermaid
